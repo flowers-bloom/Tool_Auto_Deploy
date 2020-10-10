@@ -1,2 +1,5 @@
 server:
   port: 8000
+oauth:
+  id: 64235537f3231f426495
+  secret: 857cec9af00be6671e58e7c961f371bfd2229987
