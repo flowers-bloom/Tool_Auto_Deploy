@@ -2,7 +2,7 @@ package com.neu.deploy.controller;
 
 import com.neu.deploy.common.Result;
 import com.neu.deploy.common.StatusCode;
-import com.neu.deploy.service.UserService;
+import com.neu.deploy.services.UserService;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

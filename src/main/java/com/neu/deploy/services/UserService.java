@@ -1,4 +1,4 @@
-package com.neu.deploy.service;
+package com.neu.deploy.services;
 
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;
